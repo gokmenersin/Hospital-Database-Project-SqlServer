@@ -3,9 +3,9 @@
 Bu proje, bir hastane yönetim sisteminin veritabanı yapısını tasarlamayı ve uygulamayı amaçlayan bir grup çalışmasıdır. **SQL Server** kullanılarak geliştirilmiştir.
 
 ## Özellikler
-- Hastane araçlarıve takibi
+- Hastane araçları ve takibi
 - Hasta kayıt ve takibi
-- Doktor, hemşire ve diğer personel takibi,bilgileri
+- Doktor, hemşire ve diğer personel takibi, bilgileri
 - Randevu ve tedavi süreçlerinin yönetimi
 - İlaç ve reçete bilgileri
 - Detaylı raporlama ve veri analizi
